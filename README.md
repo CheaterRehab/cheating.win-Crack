@@ -8,6 +8,7 @@ His Legit External caught our eyes as he described it as "fully UD with crazy ex
 
 # Reversal
 
+His loader is heavily packed with VMP, we were able to dump his loader while all modules were loaded and present into memory, we had 3 modules dumped, the actual cheat driver, gdrv, and a big section of his actual loader. You can see proof of gdrv being used here:
 <img src=images/image.png/>
 
 His idea was to make EAC/BE believe his kernel module was in legitimate memory, while in reality, his driver wasn't signed, he claims this to be "fully UD" while anti-cheats have been checking modules for valid certificates since forever. Coming from a UC moderator, you'd expect a way better quality "bypass" to be used. 
