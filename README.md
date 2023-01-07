@@ -1,4 +1,4 @@
-# cheating.win/cheat.win cracked & decompilated 
+# cheating.win/cheat.win reversal 
 
 Reversal & Disassembly of CHEAT.WIN/CHEATING.WIN LEGIT EXTERNAL by CheaterRehab
 
