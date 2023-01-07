@@ -8,10 +8,10 @@ His Legit External caught our eyes as he described it as "fully UD with crazy ex
 
 # Reversal
 
-<img src=image.png/>
+<img src=images/image.png/>
 
 His idea was to make EAC/BE believe his kernel module was in legitimate memory, while in reality, his driver wasn't signed, he claims this to be "fully UD" while anti-cheats have been checking modules for valid certificates since forever. Coming from a UC moderator, you'd expect a way better quality "bypass" to be used. 
 
-<img src=image2.png/>
+<img src=images/image2.png/>
 
 He tried to make his driver look like a legitimate AMD "diagnostics" driver, whilist its unsigned.
