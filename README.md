@@ -4,7 +4,7 @@
 
 cheating.win/cheat.win/pasting.win is a popular cheat provider who has been around since 2020, they are known for blatantly pasting, and having an ego filled developer called "NEXLEVEL" he has been caught many times selling BTBD, pasting off others, and still denying allogations after clearly being exposed.
 
-His Legit External caught our eyes as he described it as "fully UD with crazy exploits never seen on the public market externally before" while he uses gdrvloader to load his unsigned IOCTL driver that is unsigned.
+His Legit External caught our eyes as he described it as "fully UD with crazy exploits never seen on the public market externally before" while he uses gdrvloader to load his unsigned IOCTL driver.
 
 # Reversal
 
@@ -16,3 +16,7 @@ His idea was to make EAC/BE believe his kernel module was in legitimate memory, 
 <img src=images/image2.png/>
 
 He tried to make his driver look like a legitimate AMD "diagnostics" driver, whilist its unsigned.
+
+# Complete Crack and Recode
+
+soon ™
